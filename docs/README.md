@@ -13,7 +13,7 @@ below you can find simple descriptions for all the programs, including screensho
 
   - Inside you can find the exercises and reports made for this course.
 
-* class 2
+* **class 2**
 
   ![Screenshot](/docs/images/AllExClass2.png)
 
@@ -21,6 +21,9 @@ below you can find simple descriptions for all the programs, including screensho
   
 * class 3
 
+  ![Screenshot](/docs/images/AllExClass3.png)
+
+  - Includes a simple .tex file, with added bibliography using bibtex
 
 * class 5
 
