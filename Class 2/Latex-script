@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+echo write the dir of the tex file
+read dir
+cd $dir
+echo write the tex file name without the extension
+read tex_file
+mkdir -p  output
+pdflatex ./$tex_file.tex
+rm $tex_file.log
+rm $tex_file.aux
+mv $tex_file.pdf output
+ 
+
