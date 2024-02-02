@@ -9,20 +9,23 @@ below you can find simple descriptions for all the programs, including screensho
 
 ## Table of contents:
 
-### docs
+* **docs**
 
-Inside you can find the exercises and reports made for this course.
+  - Inside you can find the exercises and reports made for this course.
 
-### Class 2
+* class 2
+
+  ![Screenshot](/docs/images/AllExClass2.png)
+
+  - Includes a bash script that essentially let's the user input dir of a .tex file and it's name, and creates a ready pdf file without the uneeded files.
+  
+* class 3
 
 
-### Class 3
+* class 5
 
+* class 6
 
-### Class 5
+* class 7
 
-### Class 6
-
-### Class 7
-
-### Class 10
+* class 10
