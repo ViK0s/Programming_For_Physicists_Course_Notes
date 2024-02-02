@@ -69,7 +69,7 @@ below you can find simple descriptions for all the programs, including screensho
 
   ![Screenshot](/docs/images/Ex1Class7.png)
   
-  -A very simple platformer game made using pygame
+  - A very simple platformer game made using pygame
 
 * [**class 10**](/Class%2010/)
 
