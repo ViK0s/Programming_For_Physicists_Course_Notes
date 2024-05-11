@@ -1,5 +1,5 @@
 # Programming For Physicists Course Notes
-A compilation of all programs made by me during my "programming for physicists" college course  
+A compilation of all programs made by me during my "programming for physicists" college course during my third semester.
 
 ## Description
 
